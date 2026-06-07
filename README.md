@@ -20,9 +20,7 @@ https://www.figma.com/proto/qSevHUVh47XmRfHC3vYxN5/Untitled?node-id=1-2&p=f&t=XZ
 
 ## 🚀 Live Demo
 
-```txt
 https://yashhh710.github.io/Krishna-Divine-Journey-Landing-Page-Proto/
-```
 
 ## 🛠️ Built With
 
